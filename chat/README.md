@@ -5,6 +5,7 @@ to run signoz :
  docker compose up -d
 
 to run app:
+
     opentelemetry-instrument \
         --traces_exporter otlp \
         --metrics_exporter otlp \
