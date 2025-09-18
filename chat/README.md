@@ -1,8 +1,8 @@
 to run signoz :
 
- cd signoz
+    cd signoz
  
- docker compose up -d
+    docker compose up -d
 
 to run app:
 
@@ -12,8 +12,9 @@ to run app:
         --service_name nvidia-chatbot \
     streamlit run app.py
 
-other steps(skill issue)
-  copy .env
-  have uv
-  uv sync
+other steps(skill issue):
+
+    copy .env
+    have uv
+    uv sync
   
