@@ -10,7 +10,7 @@ to run app:
         --traces_exporter otlp \
         --metrics_exporter otlp \
         --service_name nvidia-chatbot \
-    streamlit run app.py
+    streamlit run main.py
 
 other steps(skill issue):
 
