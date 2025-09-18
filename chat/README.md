@@ -1,4 +1,5 @@
 to run signoz :
+
  cd signoz
  docker compose up -d
 
